@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: .5rem
+}
+
+.name {}
+
+.degree {}
+
+.container:nth-child(odd) {
+  background-color: #292929;
+}
