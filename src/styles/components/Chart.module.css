@@ -4,14 +4,14 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: .2rem
+  gap: .2rem;
+  padding: .5rem;
 }
 
 .chart {
-  border: 1px solid;
-  border-color: #f0f0f0;
+  background-color: #292929;
   border-radius: .5rem;
-  width: 95%;
+  width: 100%;
   height: 30px;
   display: flex;
   justify-content: center;
@@ -26,11 +26,25 @@
 .chartBar {
   position: absolute;
   left: 0;
-  background-color: rgb(0, 114, 0);
   height: 100%;
   border-radius: .5rem;
+  animation: backgroundKeyFrame infinite 5s ease-in-out;
 }
 
 .chartSubjects {
   padding: .5rem;
+}
+
+@keyframes backgroundKeyFrame {
+  0% {
+    background-color: rgb(0, 114, 0);
+  }
+
+  50% {
+    background-color: rgb(1, 148, 1);
+  }
+
+  100% {
+    background-color: rgb(0, 114, 0);
+  }
 }
