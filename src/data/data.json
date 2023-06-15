@@ -1,14 +1,14 @@
 [
   {
-    "name": "Elementos de algebra y geometria",
-    "degree": 0
-  },
-  {
     "name": "Fundamentos de informatica",
     "degree": 0
   },
   {
-    "name": "Sistemas de informacion",
+    "name": "Sistemas de informacion I",
+    "degree": 0
+  },
+  {
+    "name": "Pensamiento critico y comunicacion",
     "degree": 0
   },
   {
@@ -16,7 +16,83 @@
     "degree": 0
   },
   {
-    "name": "Pensamiento critico y comunicacion",
+    "name": "Elementos de algebra y geometria",
+    "degree": 0
+  },
+  {
+    "name": "Programacion I",
+    "degree": 0
+  },
+  {
+    "name": "Sistemas de representacion",
+    "degree": 0
+  },
+  {
+    "name": "Fundamentos de quimica",
+    "degree": 0
+  },
+  {
+    "name": "Arquitectura de computadores",
+    "degree": 0
+  },
+  {
+    "name": "Matematica discreta",
+    "degree": 0
+  },
+  {
+    "name": "Algebra",
+    "degree": 0
+  },
+  {
+    "name": "Programacion II",
+    "degree": 0
+  },
+  {
+    "name": "Sistemas de informacion II",
+    "degree": 0
+  },
+  {
+    "name": "Sistemas operativos",
+    "degree": 0
+  },
+  {
+    "name": "Fisica I",
+    "degree": 0
+  },
+  {
+    "name": "Calculo I",
+    "degree": 0
+  },
+  {
+    "name": "Programacion III",
+    "degree": 0
+  },
+  {
+    "name": "Paradigma orientado a objetos",
+    "degree": 0
+  },
+  {
+    "name": "Fundamentos de telecomunicaciones",
+    "degree": 0
+  },
+  {
+    "name": "Ingenieria de datos I",
+    "degree": 0
+  },
+  {
+    "name": "Calculo II",
+    "degree": 0
+  },
+  {
+    "name": "Sistemas de informacion II",
+    "degree": 0
+  },
+  {
+    "name": "Sistemas operativos",
+    "degree": 0
+  },
+  {
+    "name": "Fisica I",
     "degree": 0
   }
 ]
