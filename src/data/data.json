@@ -1,98 +1,237 @@
 [
   {
     "name": "Fundamentos de informatica",
-    "degree": 0
+    "degree": 9,
+    "promote": false
   },
   {
     "name": "Sistemas de informacion I",
-    "degree": 0
+    "degree": 6,
+    "promote": false
   },
   {
     "name": "Pensamiento critico y comunicacion",
-    "degree": 0
+    "degree": 8,
+    "promote": true
   },
   {
     "name": "Teoria de sistemas",
-    "degree": 0
+    "degree": 8,
+    "promote": true
   },
   {
     "name": "Elementos de algebra y geometria",
-    "degree": 0
+    "degree": 6,
+    "promote": false
   },
   {
     "name": "Programacion I",
-    "degree": 0
+    "degree": 8,
+    "promote": false
   },
   {
     "name": "Sistemas de representacion",
-    "degree": 0
+    "degree": 8,
+    "promote": false
   },
   {
     "name": "Fundamentos de quimica",
-    "degree": 0
+    "degree": 7,
+    "promote": true
   },
   {
     "name": "Arquitectura de computadores",
-    "degree": 0
+    "degree": 9,
+    "promote": true
   },
   {
     "name": "Matematica discreta",
-    "degree": 0
+    "degree": 8,
+    "promote": true
   },
   {
     "name": "Algebra",
-    "degree": 0
+    "degree": 5,
+    "promote": false
   },
   {
     "name": "Programacion II",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Sistemas de informacion II",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Sistemas operativos",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Fisica I",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Calculo I",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Programacion III",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Paradigma orientado a objetos",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Fundamentos de telecomunicaciones",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Ingenieria de datos I",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
     "name": "Calculo II",
-    "degree": 0
+    "degree": 0,
+    "promote": false
   },
   {
-    "name": "Sistemas de informacion II",
-    "degree": 0
+    "name": "Proceso de desarrollo de software",
+    "degree": 0,
+    "promote": false
   },
   {
-    "name": "Sistemas operativos",
-    "degree": 0
+    "name": "Seminario de integracion profesional",
+    "degree": 0,
+    "promote": false
   },
   {
-    "name": "Fisica I",
-    "degree": 0
+    "name": "Teleinformatica y redes",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Ingenieria de datos II",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Probabilidad y estadistica",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Aplicaciones interactivas",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Ingenieria de software",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Fisica II",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Teoria de la computacion",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Estadistica Avanzada",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Desarrollo de aplicaciones I",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Direccion de proyectos informaticos",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Ciencia de datos",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Seguimiento e integracion de la informacion",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Modelado y simulacion",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Evaluacion de proyectos informaticos",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Inteligencia artificial",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Tecnologia y medio ambiente",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Practica profesional supervisada",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Arquitectura de aplicaciones",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Tendencias tecnologicas",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Proyecto final de ingenieria informatica",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Calidad de software",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Negocios tecnologicos",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Tecnologia e innovacion",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Derecho informatico",
+    "degree": 0,
+    "promote": false
   }
 ]

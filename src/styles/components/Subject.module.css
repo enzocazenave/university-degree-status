@@ -5,10 +5,27 @@
   border-radius: .3rem;
 }
 
-.name {}
+.name {
+  font-weight: 600;
+  letter-spacing: .5px;
+}
 
-.degree {}
+.degree {
+  font-weight: 600;
+}
 
-.container:nth-child(odd) {
+.container:nth-child(odd):not(.aprobado):not(.desaprobado):not(.promociona) {
   background-color: #292929;
+}
+
+.aprobado {
+  background-color: rgb(0, 114, 0);
+}
+
+.desaprobado {
+  background-color: #f00;
+}
+
+.promociona {
+  background-color: rgb(52, 197, 52)
 }

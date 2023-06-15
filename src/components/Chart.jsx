@@ -1,13 +1,26 @@
 import styles from '../styles/components/Chart.module.css'
+import data from '../data/data.json'
+import { getPassedDegrees } from '../helpers/getPassedDegrees';
+
+
 
 export const Chart = () => {
+
+	const subjectsLength = data.length;
+	const subjectsPassed = getPassedDegrees()
+	const percentage = Math.round((subjectsPassed / subjectsLength) * 100)
+
 	return (
 		<section className={styles.container}>
-			<h2>Estado de carrera universitaria</h2>
+			<h2>Ingenieria en informatica</h2>
+			<h3>Estado</h3>
+
 			<div className={styles.chart}>
-				<span className={styles.chartPercentage}>65%</span>
+				<div className={styles.chartBar} style={{ width: `${percentage}%` }}></div>
+				<span className={styles.chartPercentage}>{percentage}%</span>
 			</div>
-			<span className={styles.chartSubjects}>11/50 materias</span>
+
+			<span className={styles.chartSubjects}>{subjectsPassed}/{subjectsLength} materias</span>
 		</section>
 	)
 }
