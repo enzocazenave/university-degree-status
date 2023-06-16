@@ -12,7 +12,7 @@ export const Chart = () => {
 
 	return (
 		<section className={styles.container}>
-			<h2>Ingenieria en informatica</h2>
+			<h2 style={{ textAlign: 'center' }}>Ingenieria en informatica</h2>
 			<h3>Estado</h3>
 
 			<div className={styles.chart}>
