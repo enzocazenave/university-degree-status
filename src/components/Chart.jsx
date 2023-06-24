@@ -2,8 +2,6 @@ import styles from '../styles/components/Chart.module.css'
 import data from '../data/data.json'
 import { getPassedDegrees } from '../helpers/getPassedDegrees';
 
-
-
 export const Chart = () => {
 
 	const subjectsLength = data.length;
