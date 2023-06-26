@@ -66,8 +66,8 @@
   },
   {
     "name": "Sistemas operativos",
-    "degree": 0,
-    "promote": false
+    "degree": 9,
+    "promote": true
   },
   {
     "name": "Fisica I",
