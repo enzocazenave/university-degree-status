@@ -14,7 +14,7 @@ export const Chart = () => {
 			<h3>Estado</h3>
 
 			<div className={styles.chart}>
-				<div className={styles.chartBar} style={{ width: `${20}%` }}></div>
+				<div className={styles.chartBar} style={{ width: `${percentage}%` }}></div>
 				<span className={styles.chartPercentage}>{percentage}%</span>
 			</div>
 
