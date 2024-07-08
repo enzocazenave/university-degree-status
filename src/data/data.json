@@ -106,7 +106,7 @@
   },
   {
     "name": "Proceso de desarrollo de software",
-    "degree": 0,
+    "degree": 8,
     "promote": false
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "name": "Teleinformatica y redes",
-    "degree": 0,
+    "degree": 6,
     "promote": false
   },
   {
@@ -126,8 +126,8 @@
   },
   {
     "name": "Probabilidad y estadistica",
-    "degree": 0,
-    "promote": false
+    "degree": 8,
+    "promote": true
   },
   {
     "name": "Aplicaciones interactivas",
