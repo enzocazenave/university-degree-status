@@ -130,6 +130,11 @@
     "promote": true
   },
   {
+    "name": "Examen de Inglés",
+    "degree": 0,
+    "promote": false
+  },
+  {
     "name": "Aplicaciones interactivas",
     "degree": 0,
     "promote": false
@@ -231,6 +236,21 @@
   },
   {
     "name": "Derecho informatico",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Optativa 1",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Optativa 2",
+    "degree": 0,
+    "promote": false
+  },
+  {
+    "name": "Optativa 3",
     "degree": 0,
     "promote": false
   }
