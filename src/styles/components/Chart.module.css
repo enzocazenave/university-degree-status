@@ -21,6 +21,7 @@
 
 .chartPercentage {
   font-size: .75rem;
+  z-index: 999;
 }
 
 .chartBar {
