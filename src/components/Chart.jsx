@@ -20,8 +20,13 @@ export const Chart = () => {
 				<span className={styles.chartPercentage}>{percentage}%</span>
 			</div>
 
-			<span className={styles.chartSubjects}>{subjectsPassed}/{subjectsLength} materias aprobadas</span>
-			<span className={styles.chartSubjects}>{subjectsTaken} materias cursadas</span>
+			<span className={styles.chartSubjects}><span>{subjectsPassed}</span> materias aprobadas</span>
+			<span className={styles.chartSubjects}><span>{subjectsTaken}</span> materias cursadas</span>
+			<span className={styles.chartSubjects}><span style={{ backgroundColor: 'red' }}>{subjectsTaken - subjectsPassed}</span> materias en final previo</span>
+			<span className={styles.chartSubjects}><span>{subjectsLength - subjectsTaken}</span> materias pendientes de cursar</span>
+			<span className={styles.chartSubjects}><span>{subjectsLength - subjectsPassed}</span> materias pendientes de aprobar para recibirme</span>
+
+
 		</section>
 	)
 }
