@@ -166,8 +166,8 @@
   },
   {
     "name": "Direccion de proyectos informaticos",
-    "degree": 0,
-    "promote": false
+    "degree": 9,
+    "promote": true
   },
   {
     "name": "Ciencia de datos",
@@ -175,7 +175,7 @@
     "promote": false
   },
   {
-    "name": "Seguimiento e integracion de la informacion",
+    "name": "Seguridad e integracion de la informacion",
     "degree": 0,
     "promote": false
   },
