@@ -176,8 +176,8 @@
   },
   {
     "name": "Seguridad e integracion de la informacion",
-    "degree": 0,
-    "promote": false
+    "degree": 9,
+    "promote": true
   },
   {
     "name": "Modelado y simulacion",
