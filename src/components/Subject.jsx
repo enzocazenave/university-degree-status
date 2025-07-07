@@ -11,7 +11,10 @@ export const Subject = ({ subject }) => {
     return (
         <div className={`${styles.container} ${subjectStyle}`}>
             <span className={styles.name}>{name}</span>
-            <span className={styles.degree}>{degree}</span>
+            {degree == 0
+                ? null
+                : <span className={styles.degree}>{degree}</span>
+            }
         </div>
     )
 }
