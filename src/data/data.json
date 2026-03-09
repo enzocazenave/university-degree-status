@@ -211,12 +211,12 @@
   },
   {
     "name": "Arquitectura de aplicaciones",
-    "degree": 0,
+    "degree": -1,
     "promote": false
   },
   {
     "name": "Tendencias tecnologicas",
-    "degree": 0,
+    "degree": -1,
     "promote": false
   },
   {
@@ -226,12 +226,12 @@
   },
   {
     "name": "Calidad de software",
-    "degree": 0,
+    "degree": -1,
     "promote": false
   },
   {
     "name": "Negocios tecnologicos",
-    "degree": 0,
+    "degree": -1,
     "promote": false
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "name": "Dirección de empresas",
-    "degree": 0,
+    "degree": -1,
     "promote": false
   }
 ]
