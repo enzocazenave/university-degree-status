@@ -206,7 +206,7 @@
   },
   {
     "name": "Practica profesional supervisada",
-    "degree": 0,
+    "degree": -1,
     "promote": false
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "name": "Tendencias tecnologicas",
-    "degree": -1,
+    "degree": 0,
     "promote": false
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "name": "Negocios tecnologicos",
-    "degree": -1,
+    "degree": 7,
     "promote": false
   },
   {
@@ -255,8 +255,8 @@
     "promote": false
   },
   {
-    "name": "Dirección de empresas",
-    "degree": -1,
+    "name": "Optativa 3",
+    "degree": 0,
     "promote": false
   }
 ]
