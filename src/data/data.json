@@ -236,12 +236,12 @@
   },
   {
     "name": "Tecnologia e innovacion",
-    "degree": 0,
+    "degree": -1,
     "promote": false
   },
   {
     "name": "Derecho informatico",
-    "degree": 0,
+    "degree": -1,
     "promote": false
   },
   {
