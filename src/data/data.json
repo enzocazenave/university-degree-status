@@ -211,8 +211,8 @@
   },
   {
     "name": "Arquitectura de aplicaciones",
-    "degree": -1,
-    "promote": false
+    "degree": 10,
+    "promote": true
   },
   {
     "name": "Tendencias tecnologicas",
@@ -226,8 +226,8 @@
   },
   {
     "name": "Calidad de software",
-    "degree": -1,
-    "promote": false
+    "degree": 8,
+    "promote": true
   },
   {
     "name": "Negocios tecnologicos",
